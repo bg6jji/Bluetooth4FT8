@@ -14,6 +14,7 @@
 
 安卓版本FT8CN软件地址:
 [https://github.com/N0BOY/FT8CN] (https://github.com/N0BOY/FT8CN )
+
 FT8CN软件使用方法:
 [https://support.qq.com/products/415890/blog-archive] (https://support.qq.com/products/415890/blog-archive)
 
