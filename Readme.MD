@@ -8,14 +8,17 @@
 5. 支持外部供电(5-15V输入)，方便直接从电台取电(需注意3.5mm插头如果带电插入时会碰到RX/TX端子，导致模块损毁，建议断电插拔插头)
 
 具体请查看
-[使用说明](https://github.com/bg6jji/Bluetooth4FT8/blob/main/BT68%E8%93%9D%E7%89%99%E6%A8%A1%E5%9D%97%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%20V1%202023-6-28.docx)
-![PCB](https://github.com/bg6jji/Bluetooth4FT8/blob/main/PCB.png "PCB 布局")
-![模块照片](https://github.com/bg6jji/Bluetooth4FT8/blob/main/BT401forFT8.jpg "BT401 Module Picture")
+[使用说明]
 
 推荐使用
 [安卓版本FT8CN软件地址](https://github.com/N0BOY/FT8CN )
 
 具体请看
 [FT8CN软件使用方法](https://support.qq.com/products/415890/blog-archive)
+
+(https://github.com/bg6jji/Bluetooth4FT8/blob/main/BT68%E8%93%9D%E7%89%99%E6%A8%A1%E5%9D%97%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%20V1%202023-6-28.docx)
+![PCB](https://github.com/bg6jji/Bluetooth4FT8/blob/main/PCB.png "PCB 布局")
+![模块照片](https://github.com/bg6jji/Bluetooth4FT8/blob/main/BT401forFT8.jpg "BT401 Module Picture")
+
 
 
