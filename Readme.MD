@@ -12,8 +12,8 @@
 ![PCB](https://github.com/bg6jji/Bluetooth4FT8/blob/main/PCB.png "PCB 布局")
 ![模块照片](https://github.com/bg6jji/Bluetooth4FT8/blob/main/BT401forFT8.jpg "BT401 Module Picture")
 
-[安卓版本FT8CN软件地址] (https://github.com/N0BOY/FT8CN )
+推荐使用[安卓版本FT8CN软件地址] (https://github.com/N0BOY/FT8CN )
 
-[FT8CN软件使用方法] (https://support.qq.com/products/415890/blog-archive)
+具体请看[FT8CN软件使用方法] (https://support.qq.com/products/415890/blog-archive)
 
 
